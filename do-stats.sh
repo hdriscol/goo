@@ -1,3 +1,4 @@
+#gmherrera is adding to this file
 
 # this should be run in a directory with files that start with NENE*txt
 # NENE* files should contain lists of numbers, one per line
